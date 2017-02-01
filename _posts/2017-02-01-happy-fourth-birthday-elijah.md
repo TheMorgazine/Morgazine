@@ -10,6 +10,8 @@ permalink: >
 published: true
 custom_sidebar:
   - none
+top_term:
+  - "4"
 tags: [ ]
 categories:
   - Birthdays
