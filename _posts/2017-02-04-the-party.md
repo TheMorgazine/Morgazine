@@ -28,6 +28,8 @@ custom_sidebar:
   - none
 featured-image-display:
   - 'false'
+top_term:
+  - "36"
 tags: [ ]
 categories:
   - Birthdays
