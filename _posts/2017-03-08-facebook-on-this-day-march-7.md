@@ -30,6 +30,8 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 featured-image-display:
   - 'false'
+medium_post:
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:75:"https://cdn-images-1.medium.com/fit/c/200/200/1*SqJTY-3vzTSKsiqc5-cV_A.jpeg";s:10:"author_url";s:28:"https://medium.com/@morga2ja";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"e2646e7e3370";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"553ace568d65";s:6:"status";s:6:"public";s:3:"url";s:72:"https://medium.com/@morga2ja/facebook-memories-march-7-2017-e2646e7e3370";}'
 tags: [ ]
 categories:
   - Uncategorized
